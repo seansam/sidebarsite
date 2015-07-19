@@ -1,4 +1,4 @@
-# A Dynamic Sidebar using CSS
+# A Responsive Sidebar using CSS
 
 This is just a simple blog style sidebar which pivots when resizing the screen.
 
